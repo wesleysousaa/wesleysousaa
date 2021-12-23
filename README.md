@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/wesleysousaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleysousaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysousaa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleysousaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysousaa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Linguagens
@@ -16,7 +16,7 @@
   <img align="center" alt="wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="wes-wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47366440/147289922-eee243e3-2785-476c-b21b-6e6180ac25aa.gif">
+  <img align="right" alt="Rafa-pic" height="170" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47366440/147289922-eee243e3-2785-476c-b21b-6e6180ac25aa.gif">
   
   
 </div>
