@@ -22,9 +22,7 @@
   <img align="center" alt="wes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="wes-wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="wes-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img align="right" alt="wes-pic" height="170" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47366440/147289922-eee243e3-2785-476c-b21b-6e6180ac25aa.gif">
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+  <img align="right" alt="wes-pic" height="170" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47366440/147289922-eee243e3-2785-476c-b21b-6e6180ac25aa.gif">  
   
 </div>
   
